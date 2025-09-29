@@ -1,12 +1,12 @@
 
 # A02 Git/GitHub Tutorial
 ## 1.) Install Git as a local program. Use the link https://git-scm.com/downloads. 
-#       It gives you a version for whichever you're using Windows, Mac, Linux etc.  
-#       This is a open source distributed version control system. 
-#       It allows you to keep track of files and manage changes over time.
+##       It gives you a version for whichever you're using Windows, Mac, Linux etc.  
+##       This is a open source distributed version control system. 
+##       It allows you to keep track of files and manage changes over time.
 
 ## 2.)  Create a Github Account: https://github.coms. 
-#       GitHub is a Git Server that hosts your Git projects.
+##       GitHub is a Git Server that hosts your Git projects.
 ## 3.) Install Webstorm from JetBrains https://www.jetbrains.com/academy/student-pack/. 
 #        Register with your school email.
 ## 4.) Once downloaded, go to settings on Webstorm. Click the top right corner, and hit the tool box to Settings.
