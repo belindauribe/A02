@@ -34,6 +34,6 @@ allows you to review changes before committing them to your local branch. </li>
 
 # References
 
-("GitHub glossary. (2019). Retrieved from GitHub Docs website: https://docs.github.com/en/get-started/learning-about-github/github-glossary")
-Hendela, A. (n.d.). Introduction to Github and Webstorm.
-WebStorm Help. (2025). Retrieved September 29, 2025, from WebStorm Help website: https://www.jetbrains.com/help/webstorm/github.html#tu2vq0_28
+-GitHub glossary. (2019). Retrieved from GitHub Docs website: https://docs.github.com/en/get-started/learning-about-github/github-glossary
+-Hendela, A. (n.d.). Introduction to Github and Webstorm.
+-WebStorm Help. (2025). Retrieved September 29, 2025, from WebStorm Help website: https://www.jetbrains.com/help/webstorm/github.html#tu2vq0_28
