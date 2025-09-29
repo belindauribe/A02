@@ -27,22 +27,23 @@
 #     12.) Push changes to Github. Your files will now be on Github.
 
 # Glossary
-**Branch**- a parallel version of a repository.
-Clone- copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy.
-Commit-A commit, or "revision", is an individual change to a file (or set of files).
-Fetch-, you're adding changes from the remote repository to your local working branch without committing them. It 
+<ul>
+<li>**Branch**- a parallel version of a repository.</li>
+<li>**Clone**- copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy.</li>
+**Commit**-A commit, or "revision", is an individual change to a file (or set of files).
+**Fetch**-, you're adding changes from the remote repository to your local working branch without committing them. It 
 allows you to review changes before committing them to your local branch.
-GIT-
-Github-an open source program for tracking changes in text files.
-Merge-Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another.
-Merge Conflict-A difference that occurs between merged branches. The merge conflict must be resolved before you can merge the branches.
-Push-to send your committed changes to a remote repository on GitHub.com.
-Pull-Pull refers to when you are fetching in changes and merging them.
-Remote- the version of a repository or branch that is hosted on a server, most likely GitHub.com.
-Repository-the most basic element of GitHub. They're easiest to imagine as a project's folder.
+**GIT**-
+**Github**-an open source program for tracking changes in text files.
+**Merge**-Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another.
+**Merge Conflict**-A difference that occurs between merged branches. The merge conflict must be resolved before you can merge the branches.
+**Push**-to send your committed changes to a remote repository on GitHub.com.
+**Pull**-Pull refers to when you are fetching in changes and merging them.
+**Remote**- the version of a repository or branch that is hosted on a server, most likely GitHub.com.
+**Repository**-the most basic element of GitHub. They're easiest to imagine as a project's folder.
             A repository contains all of the project files (including documentation), and stores each file's revision history.
             Repositories can have multiple collaborators and can be either public or private.
-
+</ul>
 
 
 # References
