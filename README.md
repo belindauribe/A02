@@ -27,7 +27,7 @@
 #     12.) Push changes to Github. Your files will now be on Github.
 
 # Glossary
-Branch- a parallel version of a repository.
+**Branch**- a parallel version of a repository.
 Clone- copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy.
 Commit-A commit, or "revision", is an individual change to a file (or set of files).
 Fetch-, you're adding changes from the remote repository to your local working branch without committing them. It 
